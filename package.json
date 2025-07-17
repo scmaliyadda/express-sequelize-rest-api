@@ -1,0 +1,27 @@
+{
+  "name": "express-sequelize-rest-api",
+  "version": "1.0.0",
+  "description": "ExpressJs Sequelize ORM with SQLite REST Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scmaliyadda/express-sequelize-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scmaliyadda/express-sequelize-rest-api/issues"
+  },
+  "homepage": "https://github.com/scmaliyadda/express-sequelize-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  }
+}
